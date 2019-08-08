@@ -184,6 +184,13 @@
 #define II_CY_REV       3
 #define II_CY_CV        4
 
+#define II_CR_PRESET    0
+#define II_CR_RESET     1
+#define II_CR_ACT       2
+#define II_CR_DIR       3
+#define II_CR_CHAIN     4
+#define II_CR_TIME      5
+#define II_CR_LOOP      6
 
 #define JF_TR       1
 #define JF_RMODE    2
