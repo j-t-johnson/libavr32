@@ -15,6 +15,7 @@
 #define II_MP_ADDR          0x2A
 #define II_LV_ADDR          0x2C
 #define II_CY_ADDR          0x2E
+#define II_CR_ADDR          0x2F
 
 #define MP                  0x30
 #define ER301_1             0x31
